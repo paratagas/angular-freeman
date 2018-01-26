@@ -6,3 +6,6 @@
 
 # Node modules in sub-folders
 */node_modules/
+
+# logs
+npm-debug.log

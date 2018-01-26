@@ -1,0 +1,1 @@
+let customVar = "custom value";

@@ -1,0 +1,1 @@
+var customVar = "custom value";
