@@ -1,0 +1,8 @@
+npm run typings -- install dt~core-js --save --global
+npm run typings -- install dt~node --save --global
+npm run typings -- search core-js
+npm run typings -- install dt~core-js --save --global
+npm run typings install
+http://definitelytyped.org
+
+npm run tsc
